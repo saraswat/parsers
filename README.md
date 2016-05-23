@@ -5,7 +5,8 @@ Links to interesting English parsers
 From Noah Smith [SEMAFOR](http://demo.ark.cs.cmu.edu/parse). Produces instantiated frames, from [Frame-net](https://framenet.icsi.berkeley.edu/fndrupal/about).
 
 ## CandC parser
-Web access to the Clark and Curran parser is described [here](https://github.com/valeriobasile/candcapi).
+Web access to the Clark and Curran parser is [available here](http://valeriobasile.github.io/candcapi/)
+with the [source code here](https://github.com/valeriobasile/candcapi).
 
 ## CCG based parser
 Mike Lewis' [EasySRL](https://github.com/mikelewis0/EasySRL). Produces lambda forms.
